@@ -1,0 +1,15 @@
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Tasks5\HomeTask\obj\Debug\net6.0\HomeTask.csproj.AssemblyReference.cache
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Tasks5\HomeTask\obj\Debug\net6.0\HomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Tasks5\HomeTask\obj\Debug\net6.0\HomeTask.AssemblyInfoInputs.cache
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Tasks5\HomeTask\obj\Debug\net6.0\HomeTask.AssemblyInfo.cs
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Tasks5\HomeTask\obj\Debug\net6.0\HomeTask.csproj.CoreCompileInputs.cache
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Tasks5\HomeTask\bin\Debug\net6.0\HomeTask.exe
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Tasks5\HomeTask\bin\Debug\net6.0\HomeTask.deps.json
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Tasks5\HomeTask\bin\Debug\net6.0\HomeTask.runtimeconfig.json
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Tasks5\HomeTask\bin\Debug\net6.0\HomeTask.dll
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Tasks5\HomeTask\bin\Debug\net6.0\HomeTask.pdb
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Tasks5\HomeTask\obj\Debug\net6.0\HomeTask.dll
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Tasks5\HomeTask\obj\Debug\net6.0\refint\HomeTask.dll
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Tasks5\HomeTask\obj\Debug\net6.0\HomeTask.pdb
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Tasks5\HomeTask\obj\Debug\net6.0\HomeTask.genruntimeconfig.cache
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Tasks5\HomeTask\obj\Debug\net6.0\ref\HomeTask.dll
